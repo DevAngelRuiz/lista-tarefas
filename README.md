@@ -5,11 +5,7 @@
 
 # :speech_balloon: About
 
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+It's a simple application for control your activities, developer in the class of programation. 
 
 
 # :computer: Technologies
@@ -18,8 +14,7 @@ This project was made using the follow technologies:
 
   [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
   [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
-  [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)        
-</div>
+     
 
 # :pencil: Autor
 
